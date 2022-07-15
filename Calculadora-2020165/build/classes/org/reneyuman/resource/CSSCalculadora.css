@@ -1,0 +1,75 @@
+/* 
+    Created on : 15-abr-2021, 15:19:26
+    Author     : Alejandro
+*/
+.button1{
+    
+    -fx-background-color: #E0E0E1;
+    /*-fx-background-color:#6AE1FB;*/
+    -fx-background-radius: 0 0 0 0;
+}
+
+.button1:hover{
+    -fx-background-color: #D3D3D3;
+    
+    -fx-background-radius: 0 0 0 0;
+    
+}
+
+.button1:pressed{
+    -fx-background-color: #C2C2C2;
+        -fx-background-radius: 0 0 0 0;
+}
+
+.button2{
+    
+    /*-fx-background-color: #98A3A5;*/
+     -fx-background-color: #E0E1FF;
+     
+     -fx-background-radius: 0 0 0 0;
+}
+
+.button2:hover{
+    -fx-background-color: #F0F1FF;
+    -fx-background-radius: 0 0 0 0;
+}
+
+.button2:pressed{
+    -fx-background-color: #FAFAFF;
+    -fx-background-radius: 0 0 0 0;
+}
+
+.button3{
+    -fx-background-color: #8689FF;
+    -fx-background-radius: 0 0 0 0;
+    
+}
+
+.button3:hover{
+    -fx-background-color: #BCBEFF;
+    -fx-background-radius: 0 0 0 0;
+}
+
+.button3:pressed{
+    -fx-background-color:   #E1E1FF;
+    -fx-background-radius: 0 0 0 0;
+}
+
+.AnchorPane1{
+    
+    -fx-background-color: #FFFFFF;
+    
+}
+
+.TextField1{
+    
+    -fx-focus-color: transparent;
+    -fx-text-box-border: transparent;
+    -fx-background-color: #FAFBFF; 
+}
+
+.AnchorPane2{
+    
+    -fx-background-color: #FAFBFF; 
+    
+}
